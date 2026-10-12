@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>Yeiderson 👋</h1>
+  <h1>Hola! Soy Yeiderson 👋</h1>
   <h3>TSU EN INFORMÁTICA | DESARROLLADOR WEB</h3>
   
   <!-- Botón de Contacto -->
   <a href="mailto:yeidersonuptai05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email=yeidersonuptai05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   
   <br>
