@@ -25,4 +25,4 @@
 <hr>
 
 <h4>📊 Mis estadísticas en GitHub</h4>
-<img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_DE_GITHUB]&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub de Yeiderson">
+<img src="https://github-readme-stats.vercel.app/api?username=[Reiyuu05]&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub de Yeiderson">
