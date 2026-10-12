@@ -30,6 +30,6 @@
   
   <!-- Estadísticas -->
   <h3>📊 Mis estadísticas en GitHub</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_DE_GITHUB]&show_icons=true&theme=blueberry&hide_border=true&count_private=true" alt="Estadísticas de GitHub de Yeiderson">
+  <img src="https://github-readme-stats.vercel.app/api?username=Reiyuu05&show_icons=true&theme=blueberry&hide_border=true&count_private=true" alt="Estadísticas de GitHub de Yeiderson">
   
 </div>
